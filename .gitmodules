@@ -1,0 +1,3 @@
+[submodule "www/fries"]
+	path = www/fries
+	url = git@github.com:jaunesarmiento/fries.git
